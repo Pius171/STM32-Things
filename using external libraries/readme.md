@@ -1,9 +1,3 @@
-# Sample using Arduino JSON
-* In any directory in your computer clone the arduino json library. I just used the folder of my stm32 project
-* In STM32Cube IDE navigate to
-
----
-
 ### 🔹 Step 1. Download ArduinoJson
 
 1. Go to the official repo: [https://github.com/bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson)
